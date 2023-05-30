@@ -18,3 +18,6 @@ where:
 - y<sub>t</sub> - observed discharge or water level value
 - $\hat{y}$</hat><sub>t</sub> - predicted discharge or water level value
 - y<sub>sr</sub> - average discharge or water level value
+
+
+For the sake of clarity, the project has been divided into 2 parts. The first part contains data processing and machine learning models for discharges - the file "BROK_part1_DISCHARGE(Q).ipynb". The second part concerns the modeling of water levels - the file "BROK_part2_WATER_LEVEL(H).ipynb".

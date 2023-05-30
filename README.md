@@ -5,8 +5,8 @@ The aim of the project is to assess the usefulness of recurrent neural network i
 
 <img src="BROK.png" width="800">
 
-The consistency of the obtained results was assessed using the coefficient of determination (R<sup>2</sup>) and the efficiency coefficient of the Nash-Sutcliffe (NSE) model, which is often used to assess the predictive capabilities of hydrological models. The value of the NSE coefficient can take values - ∞ to 1, and the closer the value of the coefficient to 1, the better the model describes reality. The efficiency coefficient values of the Nash-Sutcliffe model are presented below.
-<img src="nse_tab.png" width="300">
+The consistency of the obtained results was assessed using the coefficient of determination (R<sup>2</sup>) and the efficiency coefficient of the Nash-Sutcliffe (NSE) model, which is often used to assess the predictive capabilities of hydrological models. The value of the NSE coefficient can take values - ∞ to 1, and the closer the value of the coefficient to 1, the better the model describes reality. The efficiency coefficient values of the Nash-Sutcliffe model are presented below. 
+ <img src="nse_tab.png" width="300">
 
 Mathematical formulas for coefficients used in the project:
 

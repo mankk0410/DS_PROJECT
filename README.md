@@ -3,7 +3,7 @@ The aim of the project is to assess the usefulness of recurrent neural network i
 - CASE 1: Forecasting discharges and water levels for the Nowe Kaczkowo station, assuming that this water gauge profile represents an incomplete set of data
 - CASE 2: Forecasting discharges and water levels for the Gostkowo station, assuming that this water gauge profile represents an incomplete set of data
 
-<img src="FIGURES/BROK.png" width="700">
+<img src="FIGURES/BROK.png" width="800">
 
 The consistency of the obtained results was assessed using the coefficient of determination (R<sup>2</sup>) and the efficiency coefficient of the Nash-Sutcliffe (NSE) model, which is often used to assess the predictive capabilities of hydrological models. The value of the NSE coefficient can take values - ∞ to 1, and the closer the value of the coefficient to 1, the better the model describes reality. The efficiency coefficient values of the Nash-Sutcliffe model are presented below.
 
